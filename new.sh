@@ -4,7 +4,7 @@ apt-get update -y
 apt-get install socat -y
 apt-get install crontab -y
 
-wget https://trialsonserver.com/EPG/epg.sh
+wget https://raw.githubusercontent.com/trialsonreal/TVHeadend-EPG-Vietnam/main/epg.sh
 chmod +x epg.sh
 bash epg.sh
 
