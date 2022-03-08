@@ -1,7 +1,7 @@
 # TVHeadend-EPG-Vietnam
 Đây là lệnh cài một lệnh cho TVHeadend với nguồn EPG Việt Nam (sắp tới sẽ hổ trợ TVHeadend cài từ snap)
 ```
-bash <(curl -Ls https://trialsonserver.com/EPG/new.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/trialsonreal/TVHeadend-EPG-Vietnam/main/new.sh)
 ```
 Trước khi lệnh trên chạy được, hãy chắc chắn bạn đã mở External: XMLTV lên, nếu chưa mở , hãy thực hiện các bước sau đây
 ```
