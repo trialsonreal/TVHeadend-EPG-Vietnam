@@ -19,4 +19,7 @@ Máy Bot - 2022
 
 Thông tin liên hệ với trialsonreal
 * https://www.facebook.com/botmynginx (Facebook)
+
+
+
 ![image](https://user-images.githubusercontent.com/88416710/157363338-da25c860-98db-4cb5-a785-e190fb5e2360.png)
